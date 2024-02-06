@@ -5,7 +5,6 @@
              x:Class="IconTintColorBehavior.MainPage">
     <VerticalStackLayout>
 
-        <!-- Display notes in a list -->
         <CollectionView x:Name="itemCollection">
 
             <!-- Define the appearance of each item in the list -->
